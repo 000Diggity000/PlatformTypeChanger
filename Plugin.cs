@@ -59,10 +59,10 @@ namespace PlatformTypeChanger
                 }
                 else
                 {
-                    __instance.jumpStrength = (Fix)30L;
-                    ___maxSpeed = (Fix)19L;
-                    __instance.gravity_modifier = (Fix)1f;
-                    ___PlatformSlipperyness01 = (Fix)0.5f;
+                    //__instance.jumpStrength = (Fix)30L;
+                    //___maxSpeed = (Fix)19L;
+                    //__instance.gravity_modifier = (Fix)1f;
+                    //___PlatformSlipperyness01 = (Fix)0.5f;
                 }
             }
         }
